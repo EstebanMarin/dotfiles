@@ -25,6 +25,10 @@ config commit -m "Add bashrc"
 config push
 ``````
 
+How to install Emacs: http://tipsonubuntu.com/2019/06/09/install-emacs-26-2-keep-updated-via-snap-ubuntu-18-04-higher/ 
+Learn Emacs: https://www.youtube.com/watch?v=Iagbv974GlQ&t=28s
+Mac Setup guide: https://sourabhbajaj.com/mac-setup/
+
 Downloading into a new system, not tried yet
 
 ``````
