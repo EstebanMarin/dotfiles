@@ -140,3 +140,27 @@ Original article with setting into a new place
 https://www.atlassian.com/git/tutorials/dotfiles
 
 https://www.youtube.com/watch?v=tBoLDpTWVOM
+
+
+## Install .dotnet
+terminal
+```````
+wget -q https://packages.microsoft.com/config/ubuntu/19.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
+sudo dpkg -i packages-microsoft-prod.deb
+`````
+
+sudo apt-get update
+sudo apt-get install apt-transport-https
+sudo apt-get install dotnet-sdk-3.0
+
+https://dotnet.microsoft.com/download/linux-package-manager/ubuntu19-04/sdk-current
+
+
+### installing Node with NVM
+
+https://github.com/nvm-sh/nvm
+
+
+### installing python
+
+https://docs.python-guide.org/starting/install3/linux/#install3-linux
