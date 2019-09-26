@@ -40,6 +40,7 @@ keysym Caps_Lock = Escape
 add Lock = Caps_Lock
 add Control = Escape
 ```
+Then run xmodmap ~/.Xmodmap
 
 Downloading into a new system, not tried yet
 
