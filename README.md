@@ -29,6 +29,18 @@ How to install Emacs: http://tipsonubuntu.com/2019/06/09/install-emacs-26-2-keep
 Learn Emacs: https://www.youtube.com/watch?v=Iagbv974GlQ&t=28s
 Mac Setup guide: https://sourabhbajaj.com/mac-setup/
 
+### Swap CAPS with ESC
+
+Put this in your ~/.Xmodmap file:
+```
+remove Lock = Caps_Lock
+remove Control = Escape
+keysym Escape = Caps_Lock
+keysym Caps_Lock = Escape
+add Lock = Caps_Lock
+add Control = Escape
+```
+
 Downloading into a new system, not tried yet
 
 ``````
