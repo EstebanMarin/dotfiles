@@ -48,6 +48,14 @@ https://github.com/robbyrussell/oh-my-zsh
 http://www.boekhoff.info/how-to-install-zsh-and-oh-my-zsh/
 
 
+## Migrating configuration/dotfiles to a new system
+
+If you already store your configurations/dotfiles in a Git repo, on a new system can be migrated with the following steps:
+Prior to the installation make sure you have committed the alias to your .bashrc or .zsh:
+
+```
+alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
+```
 
 Downloading into a new system, not tried yet
 
