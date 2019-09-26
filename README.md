@@ -42,6 +42,13 @@ add Control = Escape
 ```
 Then run xmodmap ~/.Xmodmap
 
+### Installing ZSH and seting the terminal
+
+https://github.com/robbyrussell/oh-my-zsh
+http://www.boekhoff.info/how-to-install-zsh-and-oh-my-zsh/
+
+
+
 Downloading into a new system, not tried yet
 
 ``````
