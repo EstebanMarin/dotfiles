@@ -165,12 +165,8 @@ set mouse=a
 
 
 call plug#begin('~/.config/nvim/plugged')
-"ZEN mode
-Plug 'junegunn/goyo.vim'
 "" Vim Auto pair plugin
 Plug 'tmsvg/pear-tree'
-""Vim Game
-Plug 'johngrib/vim-game-code-break'
 ""Vim Commentary
 Plug 'tpope/vim-commentary'
 "Vim surround 

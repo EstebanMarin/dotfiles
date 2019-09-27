@@ -141,6 +141,16 @@ https://www.atlassian.com/git/tutorials/dotfiles
 
 https://www.youtube.com/watch?v=tBoLDpTWVOM
 
+## Properly install Python 
+
+https://packaging.python.org/tutorials/installing-packages/#ensure-pip-setuptools-and-wheel-are-up-to-date
+
+## Properly installing PIP
+
+
+Solve problems installing pip ource /usr/local/lib/python3.6/dist-packages/virtualenv.pp y
+shttps://www.linuxhelp.com/how-to-install-pip-on-linuxmint-18-3
+https://packaging.python.org/guides/installing-using-linux-tools/
 
 ## Install .dotnet
 terminal
@@ -164,3 +174,6 @@ https://github.com/nvm-sh/nvm
 ### installing python
 
 https://docs.python-guide.org/starting/install3/linux/#install3-linux
+
+https://linuxize.com/post/how-to-install-pip-on-ubuntu-18.04/
+sudo apt install python3-pip
