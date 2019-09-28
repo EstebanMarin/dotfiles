@@ -118,7 +118,6 @@ export NVM_DIR="$HOME/.nvm"
 export WORKON_HOME=$HOME/Envs
 export PROJECT_HOME=$HOME/Deel
 export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
-export WORKON_HOME=~/Envs
 # make sure you to run `sudo find / -name virtualenvwrapper.sh` to check where is the bash script
 source $HOME/.local/bin/virtualenvwrapper.sh
 
