@@ -47,7 +47,10 @@ Then run xmodmap ~/.Xmodmap
 https://github.com/robbyrussell/oh-my-zsh
 http://www.boekhoff.info/how-to-install-zsh-and-oh-my-zsh/
 
+### After installing Emacs
 
+https://github.com/ggreer/the_silver_searcher
+Make sure that you have install ag to search through files
 ## Migrating configuration/dotfiles to a new system
 
 If you already store your configurations/dotfiles in a Git repo, on a new system can be migrated with the following steps:
